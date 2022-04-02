@@ -7,7 +7,7 @@ Created on Mon Mar 14 17:28:36 2022
 """
 print(" # Python program for check the door password !")
 
-# let say initial count number is 0
+# let say initial count number is 1
 password_attempt = 1
 
 # Apply while condition and if else in between: Let say count is not 4

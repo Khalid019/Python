@@ -1,5 +1,3 @@
-from sklearn.cluster import k_means
-
 
 Q1 = '''Question 1. Name of capital city of Bangladesh
 a) Khulna
